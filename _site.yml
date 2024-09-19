@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Pedomorphism"
       href: index.html
-    - text: "my grocery list"
+    - text: "my.grocery.list"
       href: stephen.html
     - text: "Akhilesh"
       href: Akhilesh.html      
