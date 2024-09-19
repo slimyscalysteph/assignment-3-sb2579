@@ -1,0 +1,11 @@
+name: "our-website"
+navbar:
+  title: "Stephen and Akhilesh's website"
+  left:
+    - text: "Pedomorphism"
+      href: index.html
+    - text: "my grocery list"
+      href: stephen.html
+    - text: "Akhilesh"
+      href: Akhilesh.html      
+output_dir: "."
